@@ -1,5 +1,5 @@
 import React from "react";
-import WhyChooseUs from "../components/whychooseus";
+import WhyChooseUs from "../components/Whychooseus";
 import AboutHero from "../AboutComponents/AboutHero";
 
 const AboutUsPage = () => {
